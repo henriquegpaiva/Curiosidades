@@ -2,12 +2,12 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background-color: #370404;
+  background-color: #a09fd6;
   color: #130d0d;
 }
 header {
-  background-color: #230206;
-  color: rgb(230, 53, 53);
+  background-color: #021143;
+  color: rgb(47, 83, 203);
   text-align: center;
   padding: 1.5rem 1rem;
 }
@@ -31,7 +31,7 @@ main {
   justify-content: center;
 }
 .curiosidade-card {
-  background-color: rgb(254, 95, 95);
+  background-color: rgb(16, 46, 88);
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 1rem;
@@ -43,10 +43,10 @@ main {
   transform: scale(1.05);
 }
 .curiosidade-card h3 {
-  color: #6c2222;
+  color: #361276;
 }
 footer {
-  background-color: #ff5454;
+  background-color: #021143;
   color: rgb(16, 2, 2);
   text-align: center;
   padding: 1rem;
