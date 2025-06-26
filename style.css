@@ -53,6 +53,12 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: aquamarine;
+    transition: 500ms;
+}
+
+
 .hero {
     display: flex;
     justify-content: center;
