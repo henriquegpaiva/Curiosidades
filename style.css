@@ -125,6 +125,10 @@ main {
 img {
     width: 350px;
     height: 250px;;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -146,4 +150,10 @@ footer {
     .curiosidade-card {
         width: 90%;
     }
+}
+
+div a {
+    border:black ;
+    border: ;
+
 }
