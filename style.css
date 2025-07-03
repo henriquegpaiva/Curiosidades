@@ -120,6 +120,10 @@ main {
     color:  rgb(80, 80, 241);
 }
 
+video {
+    max-width: 450px;
+}
+
 /* galeria aqui! */
 
 img {
@@ -155,6 +159,6 @@ footer {
 
 div a {
     border:black ;
-    border: ;
+    /* border: ; */
 
 }
